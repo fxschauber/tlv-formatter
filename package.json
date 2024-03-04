@@ -1,6 +1,8 @@
 {
   "name": "tlv-formatter",
   "displayName": "BER-TLV Formatter",
+  "publisher": "fxschauber",
+  "repository": {"url": "https://github.com/fxschauber/tlv-formatter.git"},
   "description": "",
   "version": "0.0.1",
   "engines": {
